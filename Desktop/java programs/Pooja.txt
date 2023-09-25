@@ -1,0 +1,7 @@
+Class Pooja
+{
+Public static void main(String args[])
+{
+System.out.prinln("pooja");
+}
+}
